@@ -1,6 +1,9 @@
 body{
     background-color: #EBD3F8;
 }
+#a{
+    display: none;
+}
 #test{
     background-color: blueviolet;
     color: #fff;
